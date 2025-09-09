@@ -12,3 +12,5 @@ pydantic_core>=2.0.0
 # Additional dependencies that might be needed by docling
 Pillow>=9.0.0
 numpy>=1.21.0
+
+torch==2.8.0+cpu
