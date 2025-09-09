@@ -2,7 +2,7 @@
 mcp[cli]>=1.0.0
 
 # PDF processing dependencies
-docling[cpu]>=2.0.0
+docling>=2.0.0
 docling-core>=2.0.0
 
 # Data validation
@@ -12,5 +12,3 @@ pydantic_core>=2.0.0
 # Additional dependencies that might be needed by docling
 Pillow>=9.0.0
 numpy>=1.21.0
-
-torch==2.8.0+cpu
